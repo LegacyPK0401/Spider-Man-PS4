@@ -1,0 +1,77 @@
+body {
+  background-color: darkgoldenrod;
+}
+p {
+  font-size:26px;
+  font-family:serif;
+  background-color:darkred;
+  color:white;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  text-decoration:underline;
+  background-color:darkorange;
+}
+
+.home { 
+  width:125px;
+  height:100px;
+  border:ridge;
+  border-color:darkblue;
+  border-radius: 100px;
+  border-width: 9px;
+}
+
+img {
+  border:ridge;
+  border-width:17px;
+  border-color: dodgerblue;
+  width:550px;
+}
+
+.link {
+  background-color: darkred;
+  color:white;
+  font-size:25px;
+}
+
+.same{
+  background-color:darkred;
+  font-size:29px;
+  color:white;
+  text-align:center;
+}
+
+.hammer {
+  border:ridge;
+  border-width:17px;
+  border-color: dodgerblue;
+  width:690px;
+  height:450px;
+}
+
+.thanos {
+    font-weight:bold;
+    text-align: center;
+    color:darkgoldenrod;
+    background-color:rebeccapurple;
+    text-decoration:underline;
+}
+
+.hammerhead {
+    font-weight:bold;
+    color:white;
+    background-color: darkblue;
+    text-align: center;
+    text-decoration:underline;
+}
+
+.hammersuit {
+    font-weight: bold;
+    color: silver;
+    background-color:darkslategray;
+    text-alignment:center;
+    text-decoration:underline;
+}
